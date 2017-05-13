@@ -10,7 +10,7 @@ STARCOUNT = 150
 os.environ['SDL_VIDEO_CENTERED'] = '1'
 pygame.init()
 screen = pygame.display.set_mode((GAMEW, GAMEH))
-pygame.display.set_caption("Space Game v0.1 (Alpha)")
+pygame.display.set_caption("Space Game a170513b")
 fpsClock = pygame.time.Clock()
 
 class Cursor(object):
@@ -31,8 +31,7 @@ class Cursor(object):
 	def render(self):
 		if self.selected != None:
 			screen.blit(self.texture, (self.selected.x - 5, self.selected.y - 5))
-			if self.selected.owner != None:
-				pygame.draw.circle(screen, (133, 133, 133), (self.selected.x, self.selected.y), self.selected.owner.jumpRange, 2) #Draws the jump range of ships on planet
+			pygame.draw.circle(screen, (133, 133, 133), (self.selected.x, self.selected.y), Empire.player.jumpRange, 2) #Draws the jump range of ships on planet
 
 class Star(object):
 
@@ -44,6 +43,7 @@ class Star(object):
 		self.y = y + 5
 		self.rect = pygame.Rect(self.x - 5, self.y - 5, 10, 10)
 		self.owner = None
+		self.discoveredByPlayer = False
 
 	def render(self):
 		if self.owner != None:
@@ -59,13 +59,15 @@ class Star(object):
 class Empire(object):
 
 	empires = []
+	player = None
 
 	def __init__(self, name, color):
 		self.name = name
 		self.color = color
-		self.player = False
 		self.capital = self.generate_capital()
 		self.jumpRange = 100
+		self.scanRange = 125
+		Empire.empires.append(self)
 
 	def generate_capital(self):
 		isUnique = False
@@ -116,6 +118,8 @@ Republic = Empire("Galactic Republic", (0, 0, 255))
 Jedi = Empire("The Jedi Order", (0, 255, 0))
 Sith = Empire("The Sith Lords", (255, 0, 0))
 
+Empire.player = Republic
+
 #Game loop
 while True:
 
@@ -125,7 +129,7 @@ while True:
 	Star.render_stars()
 	Cursor.render()
 
-	pygame.draw.rect(screen, (0,0,0), (UIX, 0, 1000, GAMEH))
+	pygame.draw.rect(screen, (0,0,0), (UIX, 0, (GAMEW - UIX), GAMEH))
 
 	pygame.display.update()
 	fpsClock.tick(FPS)
