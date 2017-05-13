@@ -1,0 +1,815 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Resource",
+				"ResourceList"
+			],
+			[
+				"Ir",
+				"IronOre"
+			],
+			[
+				"rand",
+				"randy"
+			],
+			[
+				"GRID",
+				"GRIDH"
+			],
+			[
+				"ran",
+				"randint"
+			],
+			[
+				"gen",
+				"genChance"
+			],
+			[
+				"tex",
+				"texture"
+			],
+			[
+				"Tre",
+				"TreeList"
+			],
+			[
+				"GS",
+				"GSIZEH"
+			],
+			[
+				"cur",
+				"cursorImg"
+			],
+			[
+				"G",
+				"GSIZEW"
+			],
+			[
+				"get",
+				"get_pos"
+			],
+			[
+				"Music",
+				"MusicList"
+			],
+			[
+				"curren",
+				"currentSong"
+			],
+			[
+				"volU",
+				"volUpRect"
+			],
+			[
+				"current",
+				"currentVolume"
+			],
+			[
+				"crrent",
+				"currentVolume"
+			],
+			[
+				"craft",
+				"craftHover"
+			],
+			[
+				"craf",
+				"craftReq"
+			],
+			[
+				"Bu",
+				"BuildingList"
+			],
+			[
+				"pr",
+				"print_text"
+			],
+			[
+				"pre",
+				"preGame"
+			],
+			[
+				"Ele",
+				"ElectrostaticPrecipitator"
+			],
+			[
+				"scr",
+				"Scrubber"
+			],
+			[
+				"rig",
+				"rightRect"
+			],
+			[
+				"right",
+				"rightIcon"
+			],
+			[
+				"conv",
+				"convert_alpha"
+			],
+			[
+				"req",
+				"reqBox"
+			],
+			[
+				"comm",
+				"commodities"
+			],
+			[
+				"Comm",
+				"Commodity"
+			],
+			[
+				"cra",
+				"craftReq"
+			],
+			[
+				"Commodit",
+				"commodities"
+			],
+			[
+				"com",
+				"commodities"
+			],
+			[
+				"sell",
+				"sellUpgrade"
+			],
+			[
+				"qu",
+				"quantity"
+			],
+			[
+				"Coal",
+				"Coal"
+			],
+			[
+				"render_se",
+				"render_secondarycommodities"
+			],
+			[
+				"buil",
+				"buildings"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"build",
+				"build_tile"
+			],
+			[
+				"Bui",
+				"BuildingList"
+			],
+			[
+				"Buil",
+				"BuildingGrid"
+			],
+			[
+				"Build",
+				"Building"
+			],
+			[
+				"c",
+				"currentQueue"
+			],
+			[
+				"bui",
+				"buildinglist"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"iniwindow",
+				"initwindow"
+			],
+			[
+				"init",
+				"initwindow"
+			],
+			[
+				"Me",
+				"Meme"
+			],
+			[
+				"time",
+				"timeElapsed"
+			],
+			[
+				"ren",
+				"render_secondarycommodities"
+			],
+			[
+				"icon",
+				"iconRect"
+			],
+			[
+				"commod",
+				"commodity"
+			],
+			[
+				"show",
+				"show_lastmessage"
+			],
+			[
+				"g",
+				"GRIDWINDOWW"
+			],
+			[
+				"GRIDWIND",
+				"GRIDWINDOWH"
+			],
+			[
+				"render",
+				"render_highlighted"
+			],
+			[
+				"Building",
+				"BuildingGrid"
+			],
+			[
+				"B",
+				"BuildingGrid"
+			],
+			[
+				"rend",
+				"render_buildings"
+			],
+			[
+				"rende",
+				"render_buildigns"
+			],
+			[
+				"in",
+				"init_grid"
+			],
+			[
+				"b",
+				"buildKey"
+			],
+			[
+				"id",
+				"ID"
+			],
+			[
+				"Plan",
+				"PlantedForest"
+			],
+			[
+				"machin",
+				"machineRect"
+			],
+			[
+				"tubi",
+				"tubingCraftRect"
+			],
+			[
+				"tub",
+				"tubingRect"
+			],
+			[
+				"machine",
+				"machineCraftRect"
+			],
+			[
+				"Super",
+				"SuperMachine"
+			],
+			[
+				"Av",
+				"AdvMachine"
+			],
+			[
+				"Wat",
+				"WaterCoolant"
+			],
+			[
+				"Ad",
+				"AdvWire"
+			],
+			[
+				"Tub",
+				"Tubing"
+			],
+			[
+				"Eff",
+				"EfficiencyFactory"
+			],
+			[
+				"Adva",
+				"AdvancedMachineFactory"
+			],
+			[
+				"Supe",
+				"SuperMachineFactory"
+			],
+			[
+				"ADva",
+				"AdvancedMachineFactory"
+			],
+			[
+				"Basi",
+				"BasicMachineFactory"
+			],
+			[
+				"Tu",
+				"TubingFactory"
+			],
+			[
+				"brone",
+				"broneCraftRect"
+			],
+			[
+				"bron",
+				"bronzeRect"
+			],
+			[
+				"br",
+				"Bronze"
+			],
+			[
+				"GR",
+				"GRIDW"
+			],
+			[
+				"GRIDWIN",
+				"GRIDWINDOWW"
+			],
+			[
+				"Grid",
+				"GRIDH"
+			],
+			[
+				"lose",
+				"loseMessage"
+			],
+			[
+				"check",
+				"check_win"
+			],
+			[
+				"resume",
+				"resumeRect"
+			],
+			[
+				"resu",
+				"resumeBox"
+			],
+			[
+				"paus",
+				"pause_game"
+			],
+			[
+				"pause",
+				"pauseRect"
+			],
+			[
+				"has",
+				"hasLost"
+			],
+			[
+				"exit",
+				"exitRect"
+			],
+			[
+				"pau",
+				"pause_game"
+			],
+			[
+				"up",
+				"update"
+			],
+			[
+				"sel",
+				"sellUpgrade"
+			],
+			[
+				"res",
+				"resource"
+			],
+			[
+				"RE",
+				"ResourceList"
+			],
+			[
+				"coal",
+				"coalRes"
+			],
+			[
+				"iro",
+				"ironRes"
+			],
+			[
+				"iron",
+				"ironRect"
+			],
+			[
+				"play",
+				"playerPollution"
+			],
+			[
+				"player",
+				"playerMoney"
+			],
+			[
+				"Truck",
+				"TruckStation"
+			],
+			[
+				"Re",
+				"ResourceList"
+			],
+			[
+				"reso",
+				"ResourceList"
+			],
+			[
+				"Iron",
+				"IronMine"
+			],
+			[
+				"pop",
+				"populate_grid"
+			],
+			[
+				"fo",
+				"format"
+			],
+			[
+				"ticks",
+				"ticksPerFrame"
+			],
+			[
+				"upg",
+				"upgrade"
+			],
+			[
+				"que",
+				"queueUpgrade"
+			],
+			[
+				"upgrade",
+				"upgrade_handling"
+			],
+			[
+				"queue",
+				"queueUpgrade"
+			],
+			[
+				"grid",
+				"Grid"
+			],
+			[
+				"Gr",
+				"Grid"
+			],
+			[
+				"Buildin",
+				"BuildingQueue"
+			],
+			[
+				"la",
+				"lastMessage"
+			],
+			[
+				"playe",
+				"playerPollution"
+			],
+			[
+				"label",
+				"label_rect"
+			],
+			[
+				"print",
+				"print_text"
+			],
+			[
+				"empty",
+				"Empty"
+			],
+			[
+				"gri",
+				"gridW"
+			],
+			[
+				"gr",
+				"gridW"
+			],
+			[
+				"des",
+				"destroy_tile"
+			],
+			[
+				"find",
+				"find_left"
+			],
+			[
+				"BUILDING",
+				"BUILDINGLIST"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"help",
+			"Grid Concept.py",
+			"python \"Grid Concept.py\""
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Matt/Documents/Programming/SpaceGame"
+	],
+	"file_history":
+	[
+		"/D/Matt/Documents/Programming/HealthGame/Concepts/EcoFactor v1.py",
+		"/D/Matt/Documents/Programming/HealthGame/Concepts/EcoFactor v2.py",
+		"/D/Matt/Documents/Programming/HealthGame/Concepts/EcoFactor v0.py",
+		"/D/Matt/Documents/Programming/HealthGame/Concepts/EcoFactor.py",
+		"/D/Matt/Documents/Programming/HealthGame/Concepts/Pygame Grid Concept (2).py",
+		"/D/Matt/Documents/Programming/HealthGame/Concepts/Pygame Grid Concept.py",
+		"/D/Matt/Documents/Programming/PeriodicTableProject/PeriodicTable.py",
+		"/D/Matt/Documents/Programming/HealthGame/Concepts/v2/keyboard.py",
+		"/D/Matt/Documents/Programming/HealthGame/Concepts/v2/initwindow.py",
+		"/D/Matt/Documents/Programming/HealthGame/Concepts/v2/toolbar.py",
+		"/D/Matt/Documents/Programming/HealthGame/Concepts/v2/values.py",
+		"/D/Matt/Documents/Programming/HealthGame/Concepts/v2/globalvars.py",
+		"/D/Matt/Documents/Programming/HealthGame/Concepts/v2/buildinglist.py",
+		"/D/Matt/Documents/Programming/HealthGame/Concepts/v2/building.py",
+		"/D/Matt/Documents/Programming/HealthGame/Concepts/v2/main.py",
+		"/D/Matt/Documents/Programming/HealthGame/Concepts/v2/queues.py",
+		"/D/Matt/Documents/Programming/HealthGame/Concepts/v2/tile.py",
+		"/D/Matt/Documents/Programming/HealthGame/Concepts/v2/commoditylist.py",
+		"/D/Matt/Documents/Programming/HealthGame/Concepts/v2/screen.py",
+		"/D/Matt/Documents/Programming/HealthGame/Concepts/v2/queuelist.py",
+		"/D/Matt/Documents/Programming/HealthGame/Concepts/v2/commodity.py",
+		"/D/Matt/Documents/Programming/HealthGame/Concepts/v2/init.py",
+		"/D/Matt/Documents/Programming/HealthGame/Concepts/v2/misc.py",
+		"/D/Matt/Documents/Programming/HealthGame/Concepts/v2/nature.py",
+		"/D/Matt/Documents/Programming/HealthGame/Concepts/v2/Tile.py",
+		"/D/Matt/Documents/Programming/HealthGame/Concepts/v2/Globals.py",
+		"/D/Matt/Documents/Programming/HealthGame/Concepts/v2/Init.py",
+		"/D/Matt/Documents/Programming/HealthGame/Concepts/v2/BuildingList.py",
+		"/D/Matt/Documents/Programming/HealthGame/Concepts/v2/Main.py",
+		"/D/Matt/Documents/Programming/HealthGame/Concepts/v2/BuildingList",
+		"/D/Matt/Documents/Programming/HealthGame/Concepts/ClassGrid.py",
+		"/D/Matt/Documents/Programming/HealthGame/Concepts/setup.bat",
+		"/D/Matt/Documents/Programming/HealthGame/Concepts/setup.py",
+		"/D/Matt/Documents/Programming/HealthGame/Concepts/Grid Concept.py",
+		"/D/Matt/Documents/Programming/HealthGame/src/HealthGame.py",
+		"/D/Matt/Documents/Programming/Python/Visual Studio/VisualStudioWorkspace/LearningPygame/LearningPygame.py",
+		"/D/Matt/Documents/Programming/Python/PygameFramework.py",
+		"/D/Matt/Documents/Programming/HealthGame/Concepts/Grid Concept.bat",
+		"/D/Matt/Documents/Programming/HealthGame/Concepts/Classes Concept.py",
+		"/D/Matt/Documents/Programming/HealthGame/2DProto_src/HealthProto.py",
+		"/D/Matt/Documents/Programming/RPGame/src/RPGame.py",
+		"/D/Matt/Documents/Programming/Python/Stormhawk.py",
+		"/D/Matt/Documents/Programming/Python/MonteCarlo.py",
+		"/D/Matt/Downloads/PeriodicTable.py",
+		"/D/Matt/Documents/Programming/Python/json programs/xmltodict.py",
+		"/D/Matt/Documents/Programming/Python/json programs/nsv.py",
+		"/D/Matt/Documents/Programming/Python/json programs/jsonTest.py",
+		"/D/Matt/Documents/Programming/Python/Tkinter/learningtkinter.py",
+		"/D/Matt/Documents/Programming/RPGame/RPGame.py",
+		"/C/Program Files (x86)/Steam/SteamApps/common/dota 2 beta/game/dota_addons/zambalance/scripts/npc/npc_abilities.txt",
+		"/C/Program Files (x86)/Steam/SteamApps/common/dota 2 beta/game/dota_addons/zambalance/scripts/npc/npc_heroes.txt",
+		"/C/Program Files (x86)/Steam/SteamApps/common/dota 2 beta/game/dota_addons/zambalance/addoninfo.txt",
+		"/C/Program Files (x86)/Steam/SteamApps/common/dota 2 beta/game/dota_addons/overthrow/addoninfo.txt",
+		"/D/Matt/Documents/Programming/PeriodicTableProject/Algorithm.txt",
+		"/D/Matt/Documents/Programming/PeriodicTableProject/data.json",
+		"/D/Matt/Documents/Programming/PeriodicTableProject/Algorithm",
+		"/C/Users/Matt/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Matt/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/D/Matt/Documents/Programming/PeriodicTableProject/data/data.json",
+		"/D/Matt/Documents/Paradox Interactive/Hearts of Iron IV/mod/africamod/history/states/556-Ivory Coast.txt",
+		"/D/Matt/Documents/Paradox Interactive/Hearts of Iron IV/mod/africamod/history/states/557-Dakar.txt",
+		"/D/Matt/Documents/Paradox Interactive/Hearts of Iron IV/mod/africamod/history/countries/FWA - French West Africa.txt",
+		"/C/Users/Matt/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/Matt/Documents/Paradox Interactive/Hearts of Iron IV/mod/africamod/history/states/272-French Africa.txt",
+		"/D/Matt/Documents/Paradox Interactive/Hearts of Iron IV/mod/africamod/common/countries/French West Africa.txt",
+		"/D/Matt/Documents/Paradox Interactive/Hearts of Iron IV/mod/africamod/common/country_tags/africamod_countries.txt",
+		"/D/SteamLibrary/SteamApps/common/Hearts of Iron IV/history/states/272-French Africa.txt",
+		"/D/Matt/Documents/Programming/PeriodicTableProject/README.md",
+		"/D/Matt/Documents/Programming/PeriodicTableProject/data/Globals.py",
+		"/D/Matt/Documents/Programming/PeriodicTableProject/data/__init__.py",
+		"/D/Matt/Documents/Programming/Python/PicklePlay/PicklePlay.py"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"treeList",
+			"pygame.quit()",
+			"bigstacks",
+			"sys.exit",
+			"pygame.quit",
+			"craftable",
+			"money1",
+			"resourcelist",
+			"ResourceList",
+			"pygame.quit",
+			"self",
+			"convert",
+			"hover",
+			"globalvars",
+			"nanotime.now()",
+			"nanotime.nanotime",
+			"time.time",
+			"*\n",
+			"copperplant",
+			"brone",
+			"tooltop",
+			"GRIDW",
+			"pygame.quit",
+			"resourcelist",
+			"money",
+			"iron ",
+			"player",
+			"playerMoney",
+			"resourcelist",
+			"red",
+			"black",
+			"white",
+			"right",
+			"'id'",
+			"construction",
+			"juggernaut",
+			"5",
+			"12",
+			"True",
+			"5",
+			"12"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 231.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "SpaceGame.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 198.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
