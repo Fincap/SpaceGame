@@ -4,16 +4,44 @@
 		"selected_items":
 		[
 			[
+				"jup",
+				"jumpSurface"
+			],
+			[
+				"jump",
+				"jumpSurface"
+			],
+			[
+				"rand",
+				"randint"
+			],
+			[
+				"alrea",
+				"alreadyOccupiedY"
+			],
+			[
+				"al",
+				"alreadyOccupiedX"
+			],
+			[
+				"alr",
+				"alreadyOccupiedY"
+			],
+			[
+				"alread",
+				"alreadyOccupied"
+			],
+			[
+				"rende",
+				"render_stars"
+			],
+			[
 				"Resource",
 				"ResourceList"
 			],
 			[
 				"Ir",
 				"IronOre"
-			],
-			[
-				"rand",
-				"randy"
 			],
 			[
 				"GRID",
@@ -242,10 +270,6 @@
 			[
 				"rend",
 				"render_buildings"
-			],
-			[
-				"rende",
-				"render_buildigns"
 			],
 			[
 				"in",
@@ -490,35 +514,28 @@
 			[
 				"print",
 				"print_text"
-			],
-			[
-				"empty",
-				"Empty"
-			],
-			[
-				"gri",
-				"gridW"
-			],
-			[
-				"gr",
-				"gridW"
-			],
-			[
-				"des",
-				"destroy_tile"
-			],
-			[
-				"find",
-				"find_left"
-			],
-			[
-				"BUILDING",
-				"BUILDINGLIST"
 			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "src/SpaceGame.py",
+			"settings":
+			{
+				"buffer_size": 3100,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Matt/Documents/Programming/StrategyGame/src/EraOfStates.py",
+			"settings":
+			{
+				"buffer_size": 13204,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -571,10 +588,14 @@
 	},
 	"expanded_folders":
 	[
-		"/D/Matt/Documents/Programming/SpaceGame"
+		"/D/Matt/Documents/Programming/SpaceGame",
+		"/D/Matt/Documents/Programming/SpaceGame/src"
 	],
 	"file_history":
 	[
+		"/D/Matt/Documents/Programming/StrategyGame/src/EraOfStates.py",
+		"/D/Matt/Documents/Programming/SpaceGame/SpaceGame.py",
+		"/D/Matt/Documents/Programming/Stormhawk/Stormhawk/main.py",
 		"/D/Matt/Documents/Programming/HealthGame/Concepts/EcoFactor v1.py",
 		"/D/Matt/Documents/Programming/HealthGame/Concepts/EcoFactor v2.py",
 		"/D/Matt/Documents/Programming/HealthGame/Concepts/EcoFactor v0.py",
@@ -663,6 +684,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"50",
 			"treeList",
 			"pygame.quit()",
 			"bigstacks",
@@ -721,8 +743,66 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "src/SpaceGame.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3100,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1784,
+								1784
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/Matt/Documents/Programming/StrategyGame/src/EraOfStates.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13204,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4094,
+								4094
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1755.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
